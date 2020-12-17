@@ -1,0 +1,4 @@
+THis is a sample project for learning git.
+I will use this account to learn and fork.
+
+Thankyou
